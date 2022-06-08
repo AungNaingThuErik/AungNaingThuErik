@@ -1,5 +1,10 @@
-### Mingalarpar, I'm Erik Aung 👋
+<h1 align="center">
 
+  Markdownify
+
+</h1>
+
+<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
 **AungNaingThuErik/AungNaingThuErik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
