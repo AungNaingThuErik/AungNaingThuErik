@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Languages
 
 - [x] English
-- [x] Chinese
+- [x] Burmese
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AungNaingThuErik&label=Views&color=blue&style=plastic" alt="ErikAung" /> </p>
