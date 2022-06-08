@@ -1,10 +1,8 @@
 <h1 align="center">
-
-  Mingalarpar, I'm Erik Aung 👋
-
+  Mingalarpar, I'm [Erik Aung](ErikAung.netlify.app/) 👋
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center"> Do something today that your future self will thank you for!</h4>
 
 **AungNaingThuErik/AungNaingThuErik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
