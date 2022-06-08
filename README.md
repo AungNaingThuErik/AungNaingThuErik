@@ -12,9 +12,9 @@
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Go
 - 💬 Ask me about how my day
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: AungNaingThuErik@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: An apple a day keeps the doctor away
 
 <!-- About Me -->
 ## 📱 Contact
