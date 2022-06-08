@@ -4,8 +4,8 @@
 
 <h4 align="center"> Do something today that your future self will thank you for!</h4>
 
-
-👨‍💻 About Me
+<!-- About Me -->
+## 👨‍💻 About Me
 
 - 🔭 I’m currently working on React Projects
 - 🌱 I’m currently learning more about Cloud
@@ -16,6 +16,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- About Me -->
+## 📱 Contact
 
 <!-- Languages -->
 ## Languages
