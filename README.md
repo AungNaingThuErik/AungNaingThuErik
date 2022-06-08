@@ -9,9 +9,8 @@
 
 - 🔭 I’m currently working on React Projects
 - 🌱 I’m currently learning more about Cloud
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with Go
-- 💬 Ask me about how my day
+- 👯 I’m looking to collaborate on BlockChain Projects
+- 💬 Ask me about design or any tech-related stuff
 - 📫 How to reach me: AungNaingThuErik@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: An apple a day keeps the doctor away
