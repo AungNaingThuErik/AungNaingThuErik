@@ -1,5 +1,5 @@
 <h1 align="center">
-  Mingalarpar, I'm <a href="ErikAung.netlify.app" target="_blank">Erik Aung</a> 👋
+  Mingalarpar, I'm <a href="https://erikaung.netlify.app/" target="_blank">Erik Aung</a> 👋
 </h1>
 
 <h4 align="center"> Do something today that your future self will thank you for!</h4>
