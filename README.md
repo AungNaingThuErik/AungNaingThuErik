@@ -20,7 +20,7 @@
 ## 📱 Contact
 
 <!-- Languages -->
-## Languages
+## 🌐 Languages
 
 - [x] English
 - [x] Burmese
