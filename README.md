@@ -18,7 +18,7 @@
 
 <!-- About Me -->
 ## 📱 Contact
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://sg.linkedin.com/in/aung-erik-naing-thu-7b3b51190)
 
 <!-- Languages -->
 ## 🌐 Languages
@@ -26,5 +26,9 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 - [x] English
 - [x] Burmese
 
+<!-- Tech Stack -->
+## 💻 Tech Stack
+
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AungNaingThuErik&label=Views&color=blue&style=plastic" alt="ErikAung" /> </p>
